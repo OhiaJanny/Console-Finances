@@ -20,3 +20,5 @@ This task is to write JavaScript code that analyzes the records to calculate eac
 When you open this code in the browser the resulting analysis is similar to the following:
 
  
+![screen](https://user-images.githubusercontent.com/92087695/211087615-eb1031c5-0cef-4f1c-b267-a1dac9b1f8fd.png)
+My deployed site link https://ohiajanny.github.io/Console-Finances/
